@@ -1,0 +1,33 @@
+/* #6BBAA7 */
+/* #FBA100 */
+/* #6C648B */
+/* #B6A19E */
+
+
+
+.h {
+    background-color: #6BBAA7;
+}
+
+
+tr:nth-child(even) {background: #6C648B}
+tr:nth-child(odd)  {background: #B6A19E}
+
+#Age {
+		background: #FBA100;
+}
+
+#Care {
+		background: #FBA100;
+}
+
+a:link {
+    color: #6BBAA7;
+}
+
+body {
+    background-color: #FBA100;
+	font-family:Arial;
+	font-size: 200%;
+}
+
